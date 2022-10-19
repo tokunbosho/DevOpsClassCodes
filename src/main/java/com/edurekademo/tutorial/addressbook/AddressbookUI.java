@@ -40,7 +40,7 @@ public class AddressbookUI extends UI {
     Grid contactList = new Grid();
     Button newContact = new Button("New contact");
 
-    // ContactForm is an example of a custom component class
+    // ContactForm is an example of a custom component class MOE OF THEitERN
     ContactForm contactForm = new ContactForm();
 
     // ContactService is a in-memory mock DAO that mimics
